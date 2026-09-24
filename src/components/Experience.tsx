@@ -40,7 +40,7 @@ export default function Experience() {
                 <h3 className="font-headline-md font-bold uppercase">{t.experience.role2Title}</h3>
                 <span className="font-code-sm text-terminal-black/80 dark:text-surface-bright/80 bg-terminal-black/5 dark:bg-surface-bright/10 px-2 py-1 brutalist-border inline-block self-start">{t.experience.role2Date}</span>
               </div>
-              <div className="font-code-sm uppercase mb-4 text-terminal-black/80 dark:text-surface-bright/80">DIGITAL KUBIC</div>
+              <div className="font-code-sm uppercase mb-4 text-terminal-black/80 dark:text-surface-bright/80">DIGITAL CUBIK</div>
               <p className="font-body-md text-terminal-black/80 dark:text-surface-bright/80">
                 {t.experience.role2Description}
               </p>

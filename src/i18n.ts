@@ -205,7 +205,7 @@ export const es: Translations = {
     role1Title: 'Desarrollador Front-End Junior · Diseñador UX/UI',
     role1Date: 'MAY 2025 - JUN 2026',
     role1Description:
-      'Desarrollo front-end como junior trainee en consultoría IT para clientes de varios sectores: banca, seguridad, salud... Implementación interfaces de usuario para software corporativo y aplicaciones SaaS. Diseño, implementación y mantenimiento de componentes de interfaz de usuario desde el diseño en Figma con React y TypeScript, aplicando arquitecturas modulares y reutilizables orientadas a la escalabilidad. Integración de APIs REST y coordinación con equipos de backend para el desarrollo de funcionalidades end-to-end. Colaboración en equipos multidisciplinares aplicando metodología Scrum: participación en dailys, planificación de sprints, gestión de tickets y revisión de código.',
+      'Desarrollo front-end como junior trainee en consultoría IT para clientes de varios sectores: banca, seguridad, salud...Implementación interfaces de usuario para software corporativo y aplicaciones SaaS. Diseño, implementación y mantenimiento de componentes de interfaz de usuario desde el diseño en Figma con React y TypeScript, aplicando arquitecturas modulares y reutilizables orientadas a la escalabilidad. Integración de APIs REST y coordinación con equipos de backend para el desarrollo de funcionalidades end-to-end. Colaboración en equipos multidisciplinares aplicando metodología Scrum: participación en dailys, planificación de sprints, gestión de tickets y revisión de código.',
     role2Title: 'Diseñador Web',
     role2Date: 'MAR 2024 - JUL 2024',
     role2Description:
