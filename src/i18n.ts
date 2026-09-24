@@ -119,11 +119,11 @@ export const en: Translations = {
   experience: {
     sectionTitle: 'CAREER_LOG',
     role1Title: 'Junior Front-End Developer · UX/UI Designer',
-    role1Date: 'FEB 2025 - APR 2026',
+    role1Date: 'MAY 2025 - JUN 2026',
     role1Description:
-      'Front-End Web Development. UI design in Figma. React + Vite for component-driven development. Styling with Tailwind CSS and Shadcn UI. Git-based version control with Vercel for continuous deployment. On-page SEO strategies implementation and performance tracking through Google Search Console. RESTful API integration using Axios for seamless backend connectivity.',
+      'Front-end development as a junior trainee at an IT consultancy, working with clients across multiple sectors: banking, security, healthcare, and more. Built user interfaces for corporate software and SaaS applications. Designed, implemented, and maintained UI components from Figma designs using React and TypeScript, applying modular, reusable architectures built for scalability. Integrated REST APIs and coordinated with backend teams to deliver end-to-end features. Collaborated in cross-functional teams following Scrum methodology: participating in daily standups, sprint planning, ticket management, and code review.',
     role2Title: 'Web Designer',
-    role2Date: 'FEB 2024 - JAN 2025',
+    role2Date: 'MAR 2024 - JUL 2024',
     role2Description:
       'Turn Figma prototypes into live websites using WordPress CMS and Elementor. Kept projects running smoothly through ongoing maintenance and on-page SEO improvements.',
     role3Title: 'FRONT-END SaaS Developer',
@@ -203,11 +203,11 @@ export const es: Translations = {
   experience: {
     sectionTitle: 'TRAYECTORIA',
     role1Title: 'Desarrollador Front-End Junior · Diseñador UX/UI',
-    role1Date: 'FEB 2025 - ABR 2026',
+    role1Date: 'MAY 2025 - JUN 2026',
     role1Description:
-      'Desarrollo web front-end. Diseño de UI en Figma. React + Vite para desarrollo orientado a webs con rendimineto optimo y escalabilidad. Estilos con Tailwind CSS y Shadcn UI, control de versiones con Git y Vercel para deploy final. SEO on-page e integración de APIs REST con Axios.',
+      'Desarrollo front-end como junior trainee en consultoría IT para clientes de varios sectores: banca, seguridad, salud... Implementación interfaces de usuario para software corporativo y aplicaciones SaaS. Diseño, implementación y mantenimiento de componentes de interfaz de usuario desde el diseño en Figma con React y TypeScript, aplicando arquitecturas modulares y reutilizables orientadas a la escalabilidad. Integración de APIs REST y coordinación con equipos de backend para el desarrollo de funcionalidades end-to-end. Colaboración en equipos multidisciplinares aplicando metodología Scrum: participación en dailys, planificación de sprints, gestión de tickets y revisión de código.',
     role2Title: 'Diseñador Web',
-    role2Date: 'FEB 2024 - ENE 2025',
+    role2Date: 'MAR 2024 - JUL 2024',
     role2Description:
       'Conversión de prototipos de Figma a proyectos WordPress CMS + Elementor.Personalización de temas y plantillas integrando CSS3 de forma manual. Mantenimiento continuo y mejoras de SEO on-page.',
     role3Title: 'Desarrollador Front-End SaaS',
